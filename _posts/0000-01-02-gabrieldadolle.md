@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Un seul être vous manque et tout est dépeuplé." - Alphone de la Martine
 Use the left arrow to go back!
